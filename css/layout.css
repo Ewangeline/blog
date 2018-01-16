@@ -4,10 +4,11 @@
 
 body {
     font-family: sans-serif;
+    padding-left: 2em;
 }
 
 body > p {
-    color: #777;
+    color: rgb(88, 87, 87);
     line-height: 145%;
 }
 
