@@ -6,6 +6,29 @@ body {
     font-family: sans-serif;
 }
 
+body > p {
+    color: #777;
+    line-height: 145%;
+}
+
+body > h2 {
+    color: #F16529;
+}
+
+body em {
+    color: black;
+}
+
+ul {
+    list-style: square;
+}
+
+.highligth {
+border-left: 4px solid lightblue;
+padding-left: 2em;
+
+}
+
 main.container {
  width: 992px;
  margin-left: auto;
@@ -28,7 +51,7 @@ h1 {
 .banner {
     height: 360px;
     width: 992px;
-    background-image: url("img/banner.png");
+    background-image: url("/img/banner.png");
 }
 
 footer {
